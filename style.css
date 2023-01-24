@@ -1,0 +1,62 @@
+body{
+    font-family: 'Poppins', sans-serif;
+   
+}
+
+
+
+.blue{
+    color:deepskyblue
+}
+
+
+
+.width{
+    width: 50%;
+    padding-left: 4%;
+}
+
+
+
+.width img{
+    width: 70%;
+    
+}
+
+
+
+.link{
+font-weight: bolder;
+background-image: linear-gradient(lightblue,cyan);
+text-decoration: none;
+border-radius: 15px;
+padding: 10px 40px;
+color:black;
+
+
+}
+
+
+
+h1{
+    font-size: 50px;
+}
+
+
+.flex{
+    display: flex;
+    margin-bottom: 100px;
+}
+
+
+
+.Exp{
+    padding-left: 40px;
+
+
+}
+
+
+.exp-divs {
+    box-shadow: ;
+}
